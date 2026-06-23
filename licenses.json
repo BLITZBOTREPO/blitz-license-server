@@ -1,1 +1,8 @@
-{   "BLITZ-24062026": {     "name": "Fahad",     "expiry": "2026-07-25",     "active": true,     "max_devices": 2   } }
+{
+  "BLITZ-24062026": {
+    "name": "Test User",
+    "expiry": "2026-07-23",
+    "active": true,
+    "max_devices": 2
+  }
+}
