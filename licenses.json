@@ -1,7 +1,9 @@
 {
   "BLITZ-001": {
-    "name": "Test User",
-    "expiry": "2026-07-30",
-    "active": true
+    "name": "Ali",
+    "expiry": "2026-07-24",
+    "active": true,
+    "max_devices": 1,
+    "devices": []
   }
 }
