@@ -1,8 +1,7 @@
 {
-  "BLITZ-2406202622": {
+  "BLITZ-001": {
     "name": "Test User",
-    "expiry": "2026-07-23",
-    "active": true,
-    "max_devices": 2
+    "expiry": "2026-07-30",
+    "active": true
   }
 }
