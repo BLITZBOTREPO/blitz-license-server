@@ -26,6 +26,13 @@
     "active": true,
     "max_devices": 1,
     "devices": []
+  },
+  "BLITZ-Ayyan00001": {
+    "name": "Ayyan Israr",
+    "expiry": "2026-06-30",
+    "active": true,
+    "max_devices": 1,
+    "devices": []
   }
   
 }
